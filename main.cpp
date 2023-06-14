@@ -1,6 +1,13 @@
+// Write a C++ program that displays a Letter Pyramid from a user-provided std::string.
+// Prompt the user to enter a std::string and then from that string display a Letter Pyramid as follows.
+// example
+// If the user enters the string "ABC", then your program should display:
+//     A
+//   A B A
+// A B C B A
+    
 #include <iostream>
 #include <string>
-#include <vector>
 
 using namespace std;
 
